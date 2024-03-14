@@ -9,7 +9,7 @@ from functools import wraps
 
 from pyrogram.errors.exceptions.forbidden_403 import ChatWriteForbidden
 
-OWNER_ID = 5565674333
+OWNER_ID = 1168796445
 
 Client = Client(
     "B3KKK",
