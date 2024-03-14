@@ -13,9 +13,9 @@ OWNER_ID = 5565674333
 
 Client = Client(
     "B3KKK",
-    api_id=your_api_id_here,
-    api_hash="your_api_hash_here",
-    bot_token="your_bot_token_here"
+    api_id="2736855",
+    api_hash="c2a44e1526cf253003db804e093d56fc",
+    bot_token="7060238357:AAHj1dXF0yNyC9Isi_gFDVn-hVP9_zbJoEA"
 ) 
 
 def split_limits(text):
